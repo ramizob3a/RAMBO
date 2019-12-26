@@ -5018,7 +5018,7 @@ local text = [[
 💭¦ كود رن السورس
 `cd RAMBO;./RM`
 💭¦ كود حذف السورس 
-`sudo rm -fr ~/RAMBO ; screen -X -S rambo quit`
+`sudo rm -fr RAMBO ; screen -X -S rambo quit`
 ٴ━━━━━━━━━━
 ⚜¦ للمزيد من المعلومات راسلنا
 💥¦ مطور السورس » @NNNNH
