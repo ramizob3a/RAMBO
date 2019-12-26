@@ -1907,7 +1907,7 @@ local pvstart = devrambo:get(DEVRMBO.."pvstart")
 if pvstart then    
 rambo_sendMsg(msg.sender_user_id_, 0, 1, ''..check_markdown(pvstart)..'', 1, "md")    
 else    
-rambo_sendMsg(msg.sender_user_id_, msg.id_, 1, '📬*¦* تم ارسال رسالتك الى المطور\n*📛¦* اشترك في قناة المطور \n*🚸¦* [اضغط هنا للدخول الى قناة](https://t.me/joinchat/AAAAAFT9g1QQ05YukLsQMQ) \n', 1, "md")    
+rambo_sendMsg(msg.sender_user_id_, msg.id_, 1, '📬*¦* تم ارسال رسالتك الى المطور\n*📛¦* اشترك في قناة المطور \n*🚸¦* [اضغط هنا للدخول الى قناة](https://t.me/th3victory) \n', 1, "md")    
 end     
 if not devrambo:sismember(DEVRMBO.."usersbot",msg.chat_id_) then    
 devrambo:sadd(DEVRMBO.."usersbot",msg.chat_id_)    
