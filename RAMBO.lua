@@ -103,7 +103,7 @@ echo -e ""
 done
 ]])  
 file:close()  
-file = io.open("SM", "w")  
+file = io.open("RM", "w")  
 file:write([[
 screen -S rambo -X kill
 while(true) do
