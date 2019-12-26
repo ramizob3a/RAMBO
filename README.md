@@ -31,8 +31,8 @@
 `sudo rm -fr RAMBO ; screen -X -S rambo quit`
 -------------------
 
-💭|℡ مطور السورس •⊱ @RAMBO_SYR
+💭|℡ مطور السورس •⊱ [ Rami Al Ali](https://telegram.me/NNNNH) <br>
 
 🗯|℡ بوت التواصل •⊱ [ Blocked Users](https://telegram.me/ramixnxx_bot) <br>
 
-📡|℡ قناة السورس •⊱ @TH3VICTORY
+📡|℡ قناة السورس •⊱ [ My Channel](https://telegram.me/th3victory) <br>
