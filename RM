@@ -1,0 +1,6 @@
+killall screen
+while(true) do
+rm -fr ../.telegram-cli
+screen ./RAMBO.sh
+done
+echo -e "RAMBO IS RUN BOT"
