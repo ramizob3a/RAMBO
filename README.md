@@ -27,6 +27,7 @@
 `cd RAMBO;./RM`
 
 ⚠| كود حذف السورس
+
 `sudo rm -fr RAMBO ; screen -X -S rambo quit`
 -------------------
 
