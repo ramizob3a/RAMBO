@@ -24,7 +24,10 @@
 
 🔋|℡ كود تشغيل البوت
 
-`sudo rm -fr ~/RAMBO ; screen -X -S rambo quit`
+`cd RAMBO;./RM`
+⚠| كود حذف السورس
+`sudo rm -fr RAMBO ; screen -X -S rambo quit`
+-------------------
 
 💭|℡ مطور السورس •⊱ @RAMBO_SYR
 
